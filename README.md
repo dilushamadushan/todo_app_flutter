@@ -15,13 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Features
-
-- Add, edit, and delete tasks.
-- Mark tasks as completed or pending.
-- Organize tasks with categories or priorities.
-- Responsive UI for both Android and iOS.
-
 ## Installation
 
 1. Clone the repository:
@@ -42,10 +35,8 @@ samples, guidance on mobile development, and a full API reference.
     ```
 
 ## Screenshots
-
-| Home Screen | Add Task Screen |
-|-------------|-----------------|
-| ![Home Screen](screenshots/home_screen.png) | ![Add Task Screen](screenshots/add_task_screen.png) |
+<img src="screenshot/home_screen.png" style="width: 400px; height: 600px;">
+<img src = "screenshot/add_task_screen.png" style="width: 400px; height: 600px;">
 
 ## Contributing
 
